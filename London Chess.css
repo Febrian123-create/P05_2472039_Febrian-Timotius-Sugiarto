@@ -1,0 +1,28 @@
+#judul{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    text-align: center;
+}
+table{
+    margin: auto;
+    border-spacing: 0px;
+}
+div{
+    font-size: 30px;
+}
+.putih{
+    background-color: white;
+    border: 1px solid black;
+    padding: 40px;
+}
+.hitam{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    padding: 40px;
+}
+#none{
+    text-indent: -9999px;
+}
+
